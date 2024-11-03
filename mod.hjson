@@ -1,6 +1,12 @@
 name: ultradustry
-displayName: ULTRADUSTRY (Mindustry Soundpack)
+displayName: ULTRADUSTRY (Mindustry Soundpack & Music Pack)
 author: Orion
-description: Unfinished soundpack that I use for fun. Replaces some sounds and enhances others.
-version: "1.0"
+description: 
+    '''
+Adds ULTRAKILL (tm) sound effects and music to the game.
+Erekir sounds are unfinished.
+PS: check out my upcoming Extirpation mod!!
+    '''
+version: "1.1"
 minGameVersion: "146"
+hidden: true
